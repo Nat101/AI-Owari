@@ -1,9 +1,9 @@
 # Owari
 
-#Purpose:
+# Purpose:
 The goal of this assignment is to gain an understanding of game playing, the minimax algorithm, and alpha-beta pruning.
 
-#Background:
+# Background:
 Owari is a two-player, alternating-move, zero-sum game of complete information. Each player (called SOUTH and NORTH) has six pits lined up horizontally in front of him or her, and a "goal" pit on the side to the player’s right. The board will be represented as a picture:
    3 3 3 3 3 3
 0                   0
@@ -23,7 +23,7 @@ Note that all of the stones from pit number 8 have been captured and placed in S
 
 Ending the game: The game is over when either player empties all six pits on his or her side of the board. The other player then takes all of the remaining stones from his or her own side, and places them in his or her goal pit. Players then count the stones in their goal pits. The player with the most stones is the winner.
 
-#Requirements:
+# Requirements:
 For this assignment, you are required to write a program that plays a competent game of Owari against an interactive opponent.  You may assume that the computer is always the SOUTH player and the interactive opponent is always the NORTH player. The main components of your program include the following:
 
 1.	GetWhoMovesFirst: This routine will interactively prompt the human opponent (NORTH) to select whether he or she wants to move first or second.
