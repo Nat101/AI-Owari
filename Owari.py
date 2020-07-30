@@ -1,6 +1,6 @@
-#Natalie Carlson: nfcarlson@alaska.edu
-#Linda Lee: ldlee3@alaska.edu
-#William de Schweinitz: william.z@ak.net
+#Natalie Carlson
+#Linda Lee
+#William de Schweinitz
 
 #AI - #3 Owari
 #Due 10/24/19
